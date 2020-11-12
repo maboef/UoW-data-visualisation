@@ -11,10 +11,6 @@ The main findings were:
     - Some shifts in the amount of offenses per drug during the week can be seen, with especially amphetamines being relatively more common in offense reports during the weekend. Surprisingly, cocaine related offenses are least common on saturdays. 
 
     
-    
-    What types of drug offenses are most common?
-    
-    
     Categories:
     	- Sale (sale or possession with intent of sale
     	- Possession (simple possession for use)
@@ -22,7 +18,10 @@ The main findings were:
     	- Intoxication (under influence of drug in public place)
     	- Other (includes transportation of drug and failure to register as an addict or cultivating marijuana)
     
+
     
+What types of drug offenses are most common?
+      
 
 
 
