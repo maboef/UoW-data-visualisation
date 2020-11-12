@@ -80,7 +80,7 @@ print("Intoxication (0.9%), loitering at location of drug sale (1.8%) and transp
 
 
 
-![png](output_3_1.png)
+![png](/data_vis/output_3_1.png)
 
 
     
@@ -124,7 +124,7 @@ plt.plot()
 
 
 
-![png](output_4_2.png)
+![png](/data_vis/output_4_2.png)
 
 
 
@@ -192,7 +192,7 @@ plt.plot()
 
 
 
-![png](output_7_1.png)
+![png](/data_vis/output_7_1.png)
 
 
 
@@ -258,7 +258,7 @@ plt.show()
 
 
 
-![png](output_10_1.png)
+![png](/data_vis/output_10_1.png)
 
 
 
